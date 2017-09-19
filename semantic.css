@@ -18627,12 +18627,6 @@ ol.ui.horizontal.list li:before,
       Remove Gutters
 -----------------------*/
 
-.ui.grid {
-  margin-top: -1rem;
-  margin-bottom: -1rem;
-  margin-left: -1rem;
-  margin-right: -1rem;
-}
 
 .ui.relaxed.grid {
   margin-left: -1.5rem;
